@@ -1,3 +1,4 @@
+// Numeric solver Runge Kutta 4th order. The example to be solved is (dy/dx = 2x), the result is x^2.
 #include <stdio.h>
 #include <math.h>
  
